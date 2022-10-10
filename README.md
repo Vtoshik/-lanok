@@ -1,1 +1,1 @@
-# -lanok
+# clanok
